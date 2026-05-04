@@ -4,7 +4,7 @@ A comprehensive Power BI dashboard designed to track and analyze ecommerce sales
 
 
 
-!\[Ecommerce Dashboard](Sample\_Screenshot.png)
+![Ecommerce Dashboard](Sample_Screenshot.png)
 
 
 
